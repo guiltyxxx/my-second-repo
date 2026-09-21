@@ -23,9 +23,9 @@ for (int i = 1; i <= ogr; i++) {
     if(a % i == 0 && b % i == 0) {
         cout << i << " ";
     }
-
-
-
 }
+cin.get();
+cin.get();
+return 0;
 
 }
